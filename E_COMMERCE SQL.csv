@@ -1,0 +1,301 @@
+Order_ID,Month,Month_No,Date,City,Category,Product,Channel,Units_Sold,Unit_Price,Revenue,Discount_%,Net_Revenue,Delivery_Days,Order_Status,Payment_Mode,Return_Reason,Target_Revenue
+ORD1001,Jan,1,2024-01-03,Hyderabad,Electronics,Smartphone,Website,4,799,3196,0,3196,9,Delivered,COD,,2700
+ORD1002,Feb,2,2024-02-28,Mumbai,Clothing,Jeans,Marketplace,4,24999,99996,20,79996.8,7,Delivered,Net Banking,,74700
+ORD1003,Mar,3,2024-03-28,Kolkata,Electronics,Laptop,Mobile App,5,799,3995,5,3795.25,6,Delivered,COD,,3300
+ORD1004,Apr,4,2024-04-10,Hyderabad,Home & Kitchen,LED Bulb,Website,12,4999,59988,20,47990.4,2,Pending,COD,,41900
+ORD1005,May,5,2024-05-13,Chennai,Books,Textbook,Marketplace,2,299,598,5,568.1,5,Pending,Credit Card,,600
+ORD1006,Jun,6,2024-06-18,Pune,Home & Kitchen,Iron,Website,6,1999,11994,5,11394.3,5,Returned,UPI,Late Delivery,11900
+ORD1007,Jul,7,2024-07-02,Ahmedabad,Clothing,Jeans,Mobile App,5,24999,124995,20,99996,4,Delivered,UPI,,91900
+ORD1008,Aug,8,2024-08-21,Hyderabad,Home & Kitchen,Iron,Website,4,12999,51996,10,46796.4,4,Delivered,COD,,52200
+ORD1009,Sep,9,2024-09-08,Hyderabad,Sports,Yoga Mat,Website,4,7999,31996,20,25596.8,5,Returned,COD,Late Delivery,24800
+ORD1010,Oct,10,2024-10-13,Ahmedabad,Clothing,Kurta,Website,13,299,3887,0,3887,3,Delivered,COD,,4000
+ORD1011,Nov,11,2024-11-25,Ahmedabad,Sports,Cycling Gloves,Marketplace,5,7999,39995,0,39995,2,Delivered,Net Banking,,43000
+ORD1012,Dec,12,2024-12-04,Hyderabad,Home & Kitchen,Mixer,Mobile App,3,4999,14997,0,14997,5,Pending,Credit Card,,15000
+ORD1013,Jan,1,2024-01-01,Chennai,Home & Kitchen,LED Bulb,Website,6,799,4794,20,3835.2,9,Cancelled,Net Banking,,3600
+ORD1014,Feb,2,2024-02-25,Hyderabad,Electronics,Earbuds,Website,1,999,999,20,799.2,2,Delivered,COD,,900
+ORD1015,Mar,3,2024-03-07,Bangalore,Books,Self-Help,Marketplace,8,7999,63992,5,60792.4,5,Delivered,Net Banking,,59400
+ORD1016,Apr,4,2024-04-08,Hyderabad,Books,Self-Help,Mobile App,11,24999,274989,10,247490.1,8,Cancelled,COD,,219400
+ORD1017,May,5,2024-05-02,Mumbai,Electronics,Earbuds,Marketplace,9,999,8991,20,7192.8,4,Delivered,UPI,,6600
+ORD1018,Jun,6,2024-06-08,Chennai,Home & Kitchen,Mixer,Mobile App,11,4999,54989,5,52239.55,9,Delivered,Net Banking,,53400
+ORD1019,Jul,7,2024-07-02,Chennai,Sports,Football,Website,2,24999,49998,15,42498.3,6,Delivered,COD,,47100
+ORD1020,Aug,8,2024-08-06,Kolkata,Electronics,Smartphone,Marketplace,6,499,2994,5,2844.3,4,Delivered,COD,,2500
+ORD1021,Sep,9,2024-09-03,Chennai,Home & Kitchen,Iron,Website,8,7999,63992,0,63992,1,Delivered,Net Banking,,70400
+ORD1022,Oct,10,2024-10-09,Kolkata,Clothing,Jeans,Mobile App,8,999,7992,15,6793.2,1,Delivered,UPI,,7800
+ORD1023,Nov,11,2024-11-19,Kolkata,Sports,Badminton Racket,Marketplace,12,7999,95988,15,81589.8,3,Delivered,Credit Card,,93100
+ORD1024,Dec,12,2024-12-17,Pune,Books,Fiction Novel,Website,1,12999,12999,15,11049.15,9,Cancelled,Net Banking,,9900
+ORD1025,Jan,1,2024-01-20,Delhi,Electronics,Laptop,Marketplace,2,24999,49998,5,47498.1,7,Delivered,Net Banking,,43900
+ORD1026,Feb,2,2024-02-23,Delhi,Electronics,Tablet,Mobile App,11,12999,142989,20,114391.2,9,Delivered,Debit Card,,104200
+ORD1027,Mar,3,2024-03-20,Hyderabad,Home & Kitchen,Pressure Cooker,Mobile App,3,24999,74997,10,67497.3,8,Delivered,UPI,,57600
+ORD1028,Apr,4,2024-04-12,Delhi,Books,Fiction Novel,Marketplace,4,7999,31996,10,28796.4,3,Pending,UPI,,32100
+ORD1029,May,5,2024-05-22,Ahmedabad,Home & Kitchen,Pressure Cooker,Marketplace,12,1499,17988,20,14390.4,9,Delivered,Net Banking,,13500
+ORD1030,Jun,6,2024-06-11,Hyderabad,Electronics,Laptop,Website,15,499,7485,20,5988,3,Delivered,Net Banking,,5500
+ORD1031,Jul,7,2024-07-25,Ahmedabad,Clothing,Saree,Mobile App,15,299,4485,0,4485,7,Cancelled,UPI,,3800
+ORD1032,Aug,8,2024-08-23,Bangalore,Clothing,Saree,Marketplace,8,7999,63992,15,54393.2,9,Delivered,UPI,,61700
+ORD1033,Sep,9,2024-09-26,Mumbai,Clothing,Kurta,Mobile App,10,7999,79990,5,75990.5,7,Delivered,Debit Card,,72900
+ORD1034,Oct,10,2024-10-08,Chennai,Electronics,Earbuds,Marketplace,4,24999,99996,0,99996,6,Returned,COD,Late Delivery,107500
+ORD1035,Nov,11,2024-11-02,Kolkata,Clothing,Jeans,Website,3,1999,5997,15,5097.45,4,Delivered,UPI,,4900
+ORD1036,Dec,12,2024-12-09,Chennai,Sports,Yoga Mat,Mobile App,6,1499,8994,5,8544.3,4,Delivered,Credit Card,,8300
+ORD1037,Jan,1,2024-01-09,Pune,Electronics,Earbuds,Marketplace,9,2999,26991,20,21592.8,6,Pending,UPI,,24000
+ORD1038,Feb,2,2024-02-17,Hyderabad,Clothing,Kurta,Website,2,12999,25998,15,22098.3,6,Returned,Debit Card,Damaged,22800
+ORD1039,Mar,3,2024-03-24,Chennai,Electronics,Smartwatch,Mobile App,1,2999,2999,0,2999,9,Pending,Net Banking,,3200
+ORD1040,Apr,4,2024-04-10,Kolkata,Clothing,Saree,Website,11,1999,21989,20,17591.2,6,Delivered,UPI,,18800
+ORD1041,May,5,2024-05-06,Kolkata,Books,Textbook,Mobile App,7,1499,10493,20,8394.4,3,Delivered,COD,,8800
+ORD1042,Jun,6,2024-06-11,Hyderabad,Books,Biography,Mobile App,9,299,2691,10,2421.9,5,Delivered,Net Banking,,2500
+ORD1043,Jul,7,2024-07-21,Ahmedabad,Sports,Football,Marketplace,4,7999,31996,15,27196.6,3,Delivered,Debit Card,,27300
+ORD1044,Aug,8,2024-08-16,Delhi,Books,Textbook,Website,11,1499,16489,5,15664.55,4,Delivered,UPI,,14500
+ORD1045,Sep,9,2024-09-05,Ahmedabad,Books,Fiction Novel,Mobile App,15,24999,374985,20,299988,4,Returned,COD,Damaged,291000
+ORD1046,Oct,10,2024-10-26,Kolkata,Electronics,Smartphone,Website,3,7999,23997,15,20397.45,1,Delivered,UPI,,20100
+ORD1047,Nov,11,2024-11-16,Pune,Sports,Cycling Gloves,Mobile App,10,7999,79990,15,67991.5,9,Delivered,Credit Card,,73000
+ORD1048,Dec,12,2024-12-08,Chennai,Sports,Badminton Racket,Marketplace,5,7999,39995,15,33995.75,4,Delivered,UPI,,36200
+ORD1049,Jan,1,2024-01-03,Pune,Home & Kitchen,Water Purifier,Marketplace,2,799,1598,5,1518.1,4,Delivered,Credit Card,,1600
+ORD1050,Feb,2,2024-02-19,Pune,Sports,Football,Marketplace,8,2999,23992,0,23992,4,Cancelled,COD,,26900
+ORD1051,Mar,3,2024-03-24,Kolkata,Electronics,Tablet,Mobile App,1,1999,1999,10,1799.1,7,Cancelled,COD,,1800
+ORD1052,Apr,4,2024-04-26,Chennai,Books,Biography,Mobile App,4,1499,5996,15,5096.6,8,Delivered,Debit Card,,5400
+ORD1053,May,5,2024-05-14,Ahmedabad,Sports,Yoga Mat,Website,10,7999,79990,0,79990,7,Delivered,UPI,,70000
+ORD1054,Jun,6,2024-06-13,Bangalore,Clothing,Jacket,Website,5,2999,14995,10,13495.5,4,Delivered,Debit Card,,14600
+ORD1055,Jul,7,2024-07-03,Hyderabad,Home & Kitchen,Iron,Website,8,299,2392,20,1913.6,1,Pending,Debit Card,,1800
+ORD1056,Aug,8,2024-08-19,Chennai,Electronics,Smartphone,Website,14,299,4186,20,3348.8,3,Delivered,COD,,3500
+ORD1057,Sep,9,2024-09-01,Hyderabad,Clothing,Jacket,Mobile App,3,12999,38997,20,31197.6,2,Returned,Credit Card,Changed Mind,27500
+ORD1058,Oct,10,2024-10-25,Kolkata,Home & Kitchen,LED Bulb,Mobile App,12,999,11988,0,11988,10,Delivered,Credit Card,,10600
+ORD1059,Nov,11,2024-11-21,Delhi,Home & Kitchen,LED Bulb,Marketplace,13,299,3887,10,3498.3,9,Delivered,Debit Card,,3000
+ORD1060,Dec,12,2024-12-21,Kolkata,Home & Kitchen,Mixer,Mobile App,2,2999,5998,10,5398.2,8,Returned,COD,Wrong Item,5800
+ORD1061,Jan,1,2024-01-15,Ahmedabad,Home & Kitchen,LED Bulb,Mobile App,7,12999,90993,10,81893.7,6,Cancelled,UPI,,76500
+ORD1062,Feb,2,2024-02-11,Kolkata,Clothing,Jacket,Mobile App,1,4999,4999,10,4499.1,3,Delivered,Debit Card,,4900
+ORD1063,Mar,3,2024-03-25,Hyderabad,Home & Kitchen,LED Bulb,Marketplace,1,7999,7999,5,7599.05,2,Delivered,COD,,7600
+ORD1064,Apr,4,2024-04-19,Ahmedabad,Clothing,Jacket,Mobile App,13,299,3887,0,3887,5,Delivered,Credit Card,,3700
+ORD1065,May,5,2024-05-04,Pune,Home & Kitchen,Iron,Mobile App,12,7999,95988,10,86389.2,6,Returned,Debit Card,Changed Mind,79900
+ORD1066,Jun,6,2024-06-25,Delhi,Clothing,Saree,Marketplace,9,799,7191,5,6831.45,4,Returned,Debit Card,,7000
+ORD1067,Jul,7,2024-07-18,Hyderabad,Books,Biography,Website,14,999,13986,10,12587.4,4,Delivered,Debit Card,,10800
+ORD1068,Aug,8,2024-08-16,Mumbai,Clothing,Saree,Website,9,1499,13491,5,12816.45,8,Delivered,UPI,,13100
+ORD1069,Sep,9,2024-09-19,Pune,Sports,Football,Website,1,1499,1499,15,1274.15,2,Cancelled,COD,,1300
+ORD1070,Oct,10,2024-10-26,Bangalore,Electronics,Laptop,Marketplace,5,499,2495,5,2370.25,2,Delivered,COD,,2400
+ORD1071,Nov,11,2024-11-02,Kolkata,Books,Self-Help,Mobile App,15,4999,74985,10,67486.5,10,Pending,Debit Card,,68900
+ORD1072,Dec,12,2024-12-01,Chennai,Books,Fiction Novel,Marketplace,4,1499,5996,0,5996,3,Delivered,Net Banking,,5200
+ORD1073,Jan,1,2024-01-09,Ahmedabad,Sports,Football,Mobile App,1,999,999,10,899.1,5,Returned,COD,Quality Issue,900
+ORD1074,Feb,2,2024-02-26,Kolkata,Books,Self-Help,Website,9,999,8991,5,8541.45,5,Cancelled,UPI,,7400
+ORD1075,Mar,3,2024-03-15,Hyderabad,Home & Kitchen,LED Bulb,Mobile App,2,4999,9998,10,8998.2,7,Pending,Net Banking,,9100
+ORD1076,Apr,4,2024-04-27,Mumbai,Electronics,Tablet,Mobile App,12,1999,23988,20,19190.4,5,Delivered,Credit Card,,21800
+ORD1077,May,5,2024-05-15,Mumbai,Books,Biography,Marketplace,14,1499,20986,20,16788.8,1,Returned,Credit Card,Damaged,16900
+ORD1078,Jun,6,2024-06-04,Kolkata,Home & Kitchen,Pressure Cooker,Marketplace,14,4999,69986,0,69986,8,Delivered,Debit Card,,66200
+ORD1079,Jul,7,2024-07-11,Kolkata,Clothing,Saree,Marketplace,8,1499,11992,15,10193.2,9,Delivered,UPI,,9600
+ORD1080,Aug,8,2024-08-25,Mumbai,Electronics,Smartwatch,Marketplace,14,7999,111986,15,95188.1,7,Delivered,Net Banking,,91200
+ORD1081,Sep,9,2024-09-21,Mumbai,Sports,Football,Website,5,7999,39995,5,37995.25,5,Delivered,COD,,33700
+ORD1082,Oct,10,2024-10-04,Bangalore,Books,Self-Help,Mobile App,9,299,2691,20,2152.8,7,Delivered,UPI,,2100
+ORD1083,Nov,11,2024-11-05,Hyderabad,Clothing,Jacket,Marketplace,12,1499,17988,15,15289.8,8,Pending,Credit Card,,15100
+ORD1084,Dec,12,2024-12-10,Bangalore,Sports,Yoga Mat,Website,5,2999,14995,10,13495.5,9,Delivered,UPI,,12600
+ORD1085,Jan,1,2024-01-11,Ahmedabad,Books,Biography,Website,8,7999,63992,15,54393.2,6,Delivered,Net Banking,,52400
+ORD1086,Feb,2,2024-02-26,Kolkata,Clothing,Jeans,Website,14,2999,41986,0,41986,6,Returned,COD,Damaged,48100
+ORD1087,Mar,3,2024-03-15,Mumbai,Clothing,Jacket,Website,9,12999,116991,10,105291.9,2,Cancelled,COD,,92600
+ORD1088,Apr,4,2024-04-28,Kolkata,Electronics,Laptop,Marketplace,3,499,1497,15,1272.45,5,Delivered,COD,,1300
+ORD1089,May,5,2024-05-10,Kolkata,Home & Kitchen,LED Bulb,Mobile App,11,4999,54989,20,43991.2,1,Delivered,Credit Card,,45700
+ORD1090,Jun,6,2024-06-02,Kolkata,Clothing,T-Shirt,Website,13,24999,324987,0,324987,8,Delivered,Debit Card,,364300
+ORD1091,Jul,7,2024-07-06,Hyderabad,Home & Kitchen,Mixer,Mobile App,6,2999,17994,5,17094.3,4,Delivered,Net Banking,,18000
+ORD1092,Aug,8,2024-08-15,Delhi,Clothing,Jeans,Marketplace,14,2999,41986,20,33588.8,4,Delivered,Net Banking,,30000
+ORD1093,Sep,9,2024-09-19,Hyderabad,Home & Kitchen,Iron,Marketplace,1,4999,4999,10,4499.1,9,Delivered,COD,,5100
+ORD1094,Oct,10,2024-10-19,Hyderabad,Home & Kitchen,Iron,Mobile App,14,1499,20986,5,19936.7,7,Cancelled,UPI,,18400
+ORD1095,Nov,11,2024-11-24,Hyderabad,Home & Kitchen,LED Bulb,Marketplace,5,299,1495,15,1270.75,5,Delivered,UPI,,1400
+ORD1096,Dec,12,2024-12-21,Chennai,Sports,Badminton Racket,Marketplace,13,1999,25987,5,24687.65,4,Delivered,Credit Card,,25600
+ORD1097,Jan,1,2024-01-06,Ahmedabad,Electronics,Earbuds,Website,10,1999,19990,5,18990.5,2,Cancelled,Debit Card,,20400
+ORD1098,Feb,2,2024-02-10,Pune,Clothing,Jeans,Marketplace,9,1499,13491,5,12816.45,5,Cancelled,COD,,14600
+ORD1099,Mar,3,2024-03-18,Ahmedabad,Home & Kitchen,Mixer,Website,3,999,2997,15,2547.45,9,Delivered,COD,,2200
+ORD1100,Apr,4,2024-04-08,Pune,Electronics,Smartwatch,Marketplace,12,24999,299988,10,269989.2,10,Delivered,Debit Card,,238300
+ORD1101,May,5,2024-05-04,Pune,Sports,Cricket Bat,Marketplace,4,24999,99996,0,99996,8,Cancelled,Debit Card,,104500
+ORD1102,Jun,6,2024-06-12,Mumbai,Clothing,T-Shirt,Mobile App,8,499,3992,0,3992,4,Cancelled,Credit Card,,3900
+ORD1103,Jul,7,2024-07-12,Bangalore,Books,Comic Book,Mobile App,11,499,5489,15,4665.65,10,Delivered,Debit Card,,4000
+ORD1104,Aug,8,2024-08-09,Ahmedabad,Clothing,Jacket,Website,14,1999,27986,0,27986,6,Delivered,Debit Card,,24300
+ORD1105,Sep,9,2024-09-05,Ahmedabad,Clothing,T-Shirt,Website,11,999,10989,20,8791.2,1,Delivered,Debit Card,,8100
+ORD1106,Oct,10,2024-10-20,Delhi,Books,Self-Help,Marketplace,4,12999,51996,5,49396.2,4,Delivered,Credit Card,,53700
+ORD1107,Nov,11,2024-11-12,Bangalore,Electronics,Earbuds,Website,9,1499,13491,5,12816.45,2,Delivered,UPI,,11400
+ORD1108,Dec,12,2024-12-16,Pune,Clothing,Kurta,Website,3,1499,4497,0,4497,3,Returned,Net Banking,Quality Issue,4800
+ORD1109,Jan,1,2024-01-01,Delhi,Sports,Badminton Racket,Mobile App,9,999,8991,20,7192.8,1,Returned,Net Banking,Changed Mind,7100
+ORD1110,Feb,2,2024-02-05,Kolkata,Electronics,Smartwatch,Mobile App,11,499,5489,15,4665.65,8,Delivered,UPI,,4400
+ORD1111,Mar,3,2024-03-15,Hyderabad,Electronics,Laptop,Marketplace,11,12999,142989,20,114391.2,6,Delivered,Net Banking,,115400
+ORD1112,Apr,4,2024-04-27,Kolkata,Books,Biography,Website,13,499,6487,20,5189.6,4,Delivered,Credit Card,,5100
+ORD1113,May,5,2024-05-22,Kolkata,Sports,Football,Marketplace,2,1999,3998,15,3398.3,6,Delivered,Debit Card,,3900
+ORD1114,Jun,6,2024-06-18,Delhi,Sports,Cricket Bat,Website,2,2999,5998,0,5998,6,Returned,Net Banking,Quality Issue,6200
+ORD1115,Jul,7,2024-07-04,Delhi,Books,Textbook,Mobile App,6,24999,149994,15,127494.9,1,Pending,Net Banking,,120300
+ORD1116,Aug,8,2024-08-25,Chennai,Books,Biography,Website,11,4999,54989,5,52239.55,2,Delivered,Net Banking,,50200
+ORD1117,Sep,9,2024-09-22,Chennai,Home & Kitchen,LED Bulb,Mobile App,14,7999,111986,20,89588.8,10,Delivered,Net Banking,,76900
+ORD1118,Oct,10,2024-10-13,Bangalore,Home & Kitchen,Mixer,Mobile App,12,1499,17988,10,16189.2,6,Delivered,Credit Card,,16500
+ORD1119,Nov,11,2024-11-10,Mumbai,Electronics,Laptop,Website,12,7999,95988,5,91188.6,7,Delivered,Debit Card,,81800
+ORD1120,Dec,12,2024-12-14,Delhi,Home & Kitchen,LED Bulb,Website,3,799,2397,20,1917.6,1,Delivered,Debit Card,,1900
+ORD1121,Jan,1,2024-01-22,Ahmedabad,Sports,Cycling Gloves,Mobile App,5,999,4995,20,3996,2,Delivered,UPI,,3700
+ORD1122,Feb,2,2024-02-25,Hyderabad,Books,Comic Book,Website,4,2999,11996,20,9596.8,1,Delivered,Debit Card,,10900
+ORD1123,Mar,3,2024-03-08,Hyderabad,Clothing,Saree,Mobile App,2,299,598,15,508.3,7,Delivered,COD,,500
+ORD1124,Apr,4,2024-04-19,Pune,Books,Biography,Website,7,299,2093,15,1779.05,1,Delivered,UPI,,2000
+ORD1125,May,5,2024-05-20,Kolkata,Sports,Cycling Gloves,Marketplace,11,2999,32989,10,29690.1,2,Delivered,Debit Card,,26800
+ORD1126,Jun,6,2024-06-28,Delhi,Sports,Badminton Racket,Mobile App,14,499,6986,5,6636.7,7,Delivered,Net Banking,,5800
+ORD1127,Jul,7,2024-07-25,Chennai,Home & Kitchen,Water Purifier,Mobile App,13,799,10387,0,10387,9,Delivered,Net Banking,,10400
+ORD1128,Aug,8,2024-08-21,Bangalore,Home & Kitchen,Water Purifier,Website,2,799,1598,10,1438.2,4,Delivered,Credit Card,,1600
+ORD1129,Sep,9,2024-09-20,Ahmedabad,Electronics,Laptop,Mobile App,13,12999,168987,20,135189.6,8,Delivered,Net Banking,,141000
+ORD1130,Oct,10,2024-10-03,Bangalore,Home & Kitchen,Water Purifier,Mobile App,2,4999,9998,15,8498.3,5,Returned,Net Banking,Quality Issue,8100
+ORD1131,Nov,11,2024-11-17,Ahmedabad,Home & Kitchen,Iron,Website,1,1999,1999,10,1799.1,2,Delivered,UPI,,1900
+ORD1132,Dec,12,2024-12-02,Mumbai,Sports,Football,Mobile App,15,12999,194985,5,185235.75,6,Delivered,Net Banking,,165800
+ORD1133,Jan,1,2024-01-17,Pune,Sports,Cricket Bat,Marketplace,2,7999,15998,5,15198.1,1,Delivered,COD,,17400
+ORD1134,Feb,2,2024-02-21,Bangalore,Books,Biography,Mobile App,6,1499,8994,15,7644.9,7,Returned,Net Banking,Quality Issue,8300
+ORD1135,Mar,3,2024-03-11,Pune,Home & Kitchen,Mixer,Website,9,24999,224991,15,191242.35,5,Delivered,Net Banking,,212700
+ORD1136,Apr,4,2024-04-13,Bangalore,Electronics,Tablet,Mobile App,5,24999,124995,15,106245.75,3,Delivered,UPI,,100200
+ORD1137,May,5,2024-05-07,Delhi,Home & Kitchen,Pressure Cooker,Marketplace,11,2999,32989,20,26391.2,6,Delivered,Debit Card,,23900
+ORD1138,Jun,6,2024-06-18,Chennai,Home & Kitchen,Iron,Website,3,799,2397,0,2397,5,Cancelled,UPI,,2400
+ORD1139,Jul,7,2024-07-06,Pune,Books,Fiction Novel,Marketplace,3,12999,38997,15,33147.45,3,Delivered,Net Banking,,36200
+ORD1140,Aug,8,2024-08-08,Kolkata,Sports,Cricket Bat,Mobile App,11,999,10989,15,9340.65,10,Delivered,COD,,8600
+ORD1141,Sep,9,2024-09-06,Chennai,Home & Kitchen,Iron,Mobile App,11,12999,142989,15,121540.65,8,Returned,COD,Late Delivery,122500
+ORD1142,Oct,10,2024-10-17,Bangalore,Clothing,Kurta,Mobile App,1,24999,24999,15,21249.15,6,Delivered,UPI,,22600
+ORD1143,Nov,11,2024-11-08,Delhi,Electronics,Earbuds,Website,5,4999,24995,20,19996,3,Cancelled,UPI,,22700
+ORD1144,Dec,12,2024-12-01,Mumbai,Sports,Badminton Racket,Mobile App,1,2999,2999,20,2399.2,6,Delivered,UPI,,2300
+ORD1145,Jan,1,2024-01-16,Pune,Home & Kitchen,Mixer,Website,3,299,897,10,807.3,8,Delivered,Credit Card,,900
+ORD1146,Feb,2,2024-02-04,Mumbai,Sports,Cycling Gloves,Website,1,1499,1499,5,1424.05,3,Delivered,Net Banking,,1400
+ORD1147,Mar,3,2024-03-16,Hyderabad,Home & Kitchen,Pressure Cooker,Website,1,999,999,15,849.15,10,Delivered,UPI,,900
+ORD1148,Apr,4,2024-04-08,Mumbai,Books,Biography,Marketplace,9,12999,116991,5,111141.45,3,Delivered,UPI,,115000
+ORD1149,May,5,2024-05-26,Bangalore,Books,Comic Book,Marketplace,11,499,5489,20,4391.2,6,Delivered,Net Banking,,4400
+ORD1150,Jun,6,2024-06-12,Mumbai,Books,Biography,Mobile App,14,4999,69986,0,69986,7,Pending,Debit Card,,75200
+ORD1151,Jul,7,2024-07-18,Chennai,Electronics,Earbuds,Marketplace,11,24999,274989,0,274989,10,Returned,Debit Card,Wrong Item,237400
+ORD1152,Aug,8,2024-08-07,Ahmedabad,Home & Kitchen,Pressure Cooker,Marketplace,8,24999,199992,5,189992.4,3,Delivered,COD,,163600
+ORD1153,Sep,9,2024-09-02,Mumbai,Electronics,Laptop,Mobile App,15,1499,22485,20,17988,7,Pending,Net Banking,,17800
+ORD1154,Oct,10,2024-10-13,Pune,Clothing,Saree,Website,14,24999,349986,10,314987.4,5,Delivered,Debit Card,,309000
+ORD1155,Nov,11,2024-11-03,Pune,Sports,Football,Website,8,4999,39992,10,35992.8,9,Delivered,UPI,,38400
+ORD1156,Dec,12,2024-12-20,Bangalore,Sports,Cycling Gloves,Marketplace,5,1999,9995,0,9995,2,Delivered,Debit Card,,9400
+ORD1157,Jan,1,2024-01-26,Ahmedabad,Sports,Yoga Mat,Mobile App,8,299,2392,10,2152.8,10,Pending,Debit Card,,2200
+ORD1158,Feb,2,2024-02-15,Kolkata,Electronics,Smartphone,Mobile App,9,24999,224991,5,213741.45,1,Delivered,Net Banking,,225200
+ORD1159,Mar,3,2024-03-05,Delhi,Electronics,Laptop,Website,13,24999,324987,10,292488.3,6,Delivered,Net Banking,,251500
+ORD1160,Apr,4,2024-04-09,Pune,Sports,Badminton Racket,Mobile App,13,499,6487,20,5189.6,3,Delivered,COD,,4900
+ORD1161,May,5,2024-05-09,Mumbai,Clothing,T-Shirt,Marketplace,3,4999,14997,20,11997.6,7,Cancelled,UPI,,11100
+ORD1162,Jun,6,2024-06-23,Hyderabad,Sports,Yoga Mat,Marketplace,15,4999,74985,5,71235.75,2,Delivered,UPI,,70200
+ORD1163,Jul,7,2024-07-23,Pune,Sports,Cricket Bat,Marketplace,6,499,2994,20,2395.2,9,Delivered,Debit Card,,2600
+ORD1164,Aug,8,2024-08-15,Chennai,Clothing,Saree,Website,4,799,3196,5,3036.2,8,Delivered,Net Banking,,3100
+ORD1165,Sep,9,2024-09-03,Delhi,Books,Self-Help,Website,5,2999,14995,15,12745.75,9,Delivered,COD,,14000
+ORD1166,Oct,10,2024-10-06,Delhi,Clothing,Saree,Mobile App,8,24999,199992,20,159993.6,6,Delivered,Net Banking,,166700
+ORD1167,Nov,11,2024-11-17,Mumbai,Clothing,Jacket,Website,9,799,7191,10,6471.9,3,Delivered,Credit Card,,6200
+ORD1168,Dec,12,2024-12-17,Hyderabad,Home & Kitchen,Mixer,Website,11,7999,87989,10,79190.1,3,Delivered,Net Banking,,80000
+ORD1169,Jan,1,2024-01-28,Bangalore,Clothing,Kurta,Website,11,12999,142989,20,114391.2,6,Cancelled,Net Banking,,98600
+ORD1170,Feb,2,2024-02-16,Mumbai,Electronics,Smartphone,Marketplace,13,12999,168987,10,152088.3,4,Returned,COD,Late Delivery,158400
+ORD1171,Mar,3,2024-03-14,Hyderabad,Books,Textbook,Mobile App,4,24999,99996,15,84996.6,5,Delivered,UPI,,76300
+ORD1172,Apr,4,2024-04-12,Chennai,Sports,Football,Mobile App,10,799,7990,10,7191,6,Returned,Debit Card,Damaged,6400
+ORD1173,May,5,2024-05-10,Delhi,Books,Biography,Mobile App,4,4999,19996,0,19996,5,Delivered,Credit Card,,17600
+ORD1174,Jun,6,2024-06-17,Kolkata,Sports,Cycling Gloves,Website,14,799,11186,10,10067.4,10,Returned,Credit Card,Wrong Item,10100
+ORD1175,Jul,7,2024-07-12,Hyderabad,Sports,Football,Mobile App,1,499,499,15,424.15,9,Delivered,Credit Card,,400
+ORD1176,Aug,8,2024-08-09,Hyderabad,Electronics,Smartphone,Mobile App,10,24999,249990,15,212491.5,5,Delivered,UPI,,208100
+ORD1177,Sep,9,2024-09-13,Pune,Home & Kitchen,Iron,Website,7,299,2093,20,1674.4,9,Delivered,Net Banking,,1600
+ORD1178,Oct,10,2024-10-11,Hyderabad,Books,Comic Book,Marketplace,11,12999,142989,0,142989,3,Pending,COD,,137500
+ORD1179,Nov,11,2024-11-11,Bangalore,Books,Textbook,Website,10,7999,79990,15,67991.5,9,Delivered,UPI,,60600
+ORD1180,Dec,12,2024-12-20,Ahmedabad,Sports,Cycling Gloves,Website,10,7999,79990,5,75990.5,6,Pending,Debit Card,,68300
+ORD1181,Jan,1,2024-01-12,Pune,Home & Kitchen,LED Bulb,Marketplace,14,7999,111986,20,89588.8,8,Returned,Debit Card,Damaged,98100
+ORD1182,Feb,2,2024-02-24,Kolkata,Home & Kitchen,Mixer,Marketplace,5,24999,124995,0,124995,10,Delivered,Net Banking,,127900
+ORD1183,Mar,3,2024-03-23,Ahmedabad,Electronics,Tablet,Website,9,24999,224991,20,179992.8,7,Delivered,Credit Card,,154700
+ORD1184,Apr,4,2024-04-20,Mumbai,Electronics,Laptop,Mobile App,6,2999,17994,5,17094.3,7,Delivered,COD,,17100
+ORD1185,May,5,2024-05-15,Bangalore,Sports,Cricket Bat,Marketplace,4,7999,31996,10,28796.4,8,Delivered,Debit Card,,32700
+ORD1186,Jun,6,2024-06-10,Pune,Books,Textbook,Marketplace,13,24999,324987,10,292488.3,10,Delivered,Credit Card,,273100
+ORD1187,Jul,7,2024-07-19,Hyderabad,Clothing,Saree,Marketplace,4,4999,19996,10,17996.4,8,Delivered,Debit Card,,16900
+ORD1188,Aug,8,2024-08-15,Kolkata,Books,Comic Book,Mobile App,13,799,10387,10,9348.3,1,Delivered,UPI,,8900
+ORD1189,Sep,9,2024-09-24,Chennai,Home & Kitchen,Iron,Website,14,7999,111986,10,100787.4,9,Delivered,Credit Card,,89000
+ORD1190,Oct,10,2024-10-16,Chennai,Books,Self-Help,Website,11,7999,87989,5,83589.55,4,Delivered,COD,,79300
+ORD1191,Nov,11,2024-11-10,Mumbai,Electronics,Laptop,Marketplace,15,799,11985,15,10187.25,8,Delivered,Credit Card,,11000
+ORD1192,Dec,12,2024-12-27,Mumbai,Home & Kitchen,Water Purifier,Website,11,12999,142989,5,135839.55,9,Returned,UPI,Wrong Item,132500
+ORD1193,Jan,1,2024-01-11,Kolkata,Clothing,T-Shirt,Mobile App,3,1499,4497,0,4497,1,Delivered,Net Banking,,4000
+ORD1194,Feb,2,2024-02-24,Ahmedabad,Home & Kitchen,Iron,Website,14,7999,111986,15,95188.1,5,Delivered,UPI,,90400
+ORD1195,Mar,3,2024-03-28,Bangalore,Sports,Badminton Racket,Website,12,1999,23988,10,21589.2,10,Delivered,Credit Card,,19500
+ORD1196,Apr,4,2024-04-08,Pune,Sports,Football,Website,7,24999,174993,0,174993,3,Pending,COD,,165700
+ORD1197,May,5,2024-05-21,Kolkata,Electronics,Earbuds,Website,8,1499,11992,10,10792.8,5,Delivered,Net Banking,,9200
+ORD1198,Jun,6,2024-06-23,Mumbai,Home & Kitchen,Pressure Cooker,Marketplace,2,4999,9998,10,8998.2,3,Delivered,Net Banking,,10100
+ORD1199,Jul,7,2024-07-20,Hyderabad,Home & Kitchen,Mixer,Mobile App,10,999,9990,5,9490.5,3,Delivered,COD,,10200
+ORD1200,Aug,8,2024-08-03,Ahmedabad,Home & Kitchen,Iron,Marketplace,13,24999,324987,5,308737.65,4,Delivered,Net Banking,,343300
+ORD1201,Sep,9,2024-09-18,Pune,Books,Comic Book,Website,15,12999,194985,0,194985,1,Cancelled,Net Banking,,177600
+ORD1202,Oct,10,2024-10-02,Pune,Clothing,Jeans,Marketplace,8,499,3992,5,3792.4,10,Delivered,Net Banking,,3700
+ORD1203,Nov,11,2024-11-13,Kolkata,Sports,Yoga Mat,Mobile App,10,299,2990,20,2392,8,Delivered,Debit Card,,2600
+ORD1204,Dec,12,2024-12-03,Chennai,Home & Kitchen,Mixer,Marketplace,2,299,598,15,508.3,6,Returned,Net Banking,Quality Issue,600
+ORD1205,Jan,1,2024-01-13,Hyderabad,Sports,Cricket Bat,Mobile App,3,799,2397,15,2037.45,6,Pending,COD,,2000
+ORD1206,Feb,2,2024-02-24,Bangalore,Sports,Cricket Bat,Marketplace,14,1999,27986,0,27986,3,Pending,COD,,28200
+ORD1207,Mar,3,2024-03-12,Mumbai,Clothing,T-Shirt,Mobile App,8,24999,199992,20,159993.6,7,Delivered,Credit Card,,147900
+ORD1208,Apr,4,2024-04-03,Chennai,Clothing,Saree,Marketplace,13,499,6487,0,6487,7,Delivered,UPI,,6000
+ORD1209,May,5,2024-05-07,Mumbai,Electronics,Tablet,Mobile App,10,24999,249990,0,249990,4,Returned,COD,Damaged,230100
+ORD1210,Jun,6,2024-06-05,Hyderabad,Electronics,Laptop,Website,14,12999,181986,10,163787.4,10,Delivered,Debit Card,,150900
+ORD1211,Jul,7,2024-07-14,Kolkata,Books,Self-Help,Mobile App,5,299,1495,20,1196,10,Cancelled,Credit Card,,1200
+ORD1212,Aug,8,2024-08-10,Mumbai,Books,Comic Book,Mobile App,11,24999,274989,15,233740.65,9,Delivered,COD,,227300
+ORD1213,Sep,9,2024-09-14,Ahmedabad,Sports,Yoga Mat,Website,14,999,13986,10,12587.4,3,Returned,UPI,Late Delivery,12300
+ORD1214,Oct,10,2024-10-03,Bangalore,Books,Biography,Mobile App,4,1499,5996,5,5696.2,6,Delivered,COD,,6300
+ORD1215,Nov,11,2024-11-25,Mumbai,Books,Self-Help,Mobile App,7,24999,174993,20,139994.4,10,Delivered,UPI,,126900
+ORD1216,Dec,12,2024-12-04,Chennai,Books,Biography,Mobile App,4,1999,7996,10,7196.4,1,Delivered,Credit Card,,8200
+ORD1217,Jan,1,2024-01-12,Chennai,Sports,Yoga Mat,Mobile App,15,999,14985,20,11988,6,Returned,COD,Damaged,12100
+ORD1218,Feb,2,2024-02-12,Pune,Home & Kitchen,Water Purifier,Marketplace,15,4999,74985,15,63737.25,2,Returned,COD,Changed Mind,71700
+ORD1219,Mar,3,2024-03-14,Mumbai,Home & Kitchen,Iron,Marketplace,14,999,13986,5,13286.7,1,Delivered,Net Banking,,13600
+ORD1220,Apr,4,2024-04-27,Chennai,Home & Kitchen,Pressure Cooker,Mobile App,4,2999,11996,20,9596.8,4,Delivered,Debit Card,,8900
+ORD1221,May,5,2024-05-18,Ahmedabad,Sports,Football,Website,12,1999,23988,5,22788.6,3,Returned,COD,Wrong Item,25600
+ORD1222,Jun,6,2024-06-05,Mumbai,Electronics,Tablet,Website,14,24999,349986,0,349986,1,Delivered,Credit Card,,304600
+ORD1223,Jul,7,2024-07-18,Ahmedabad,Electronics,Laptop,Mobile App,1,12999,12999,20,10399.2,8,Delivered,UPI,,8900
+ORD1224,Aug,8,2024-08-06,Mumbai,Sports,Cricket Bat,Marketplace,12,1499,17988,20,14390.4,5,Delivered,COD,,15700
+ORD1225,Sep,9,2024-09-13,Bangalore,Electronics,Smartphone,Website,4,12999,51996,20,41596.8,5,Returned,Debit Card,Damaged,36300
+ORD1226,Oct,10,2024-10-16,Chennai,Sports,Cycling Gloves,Marketplace,4,1499,5996,0,5996,1,Delivered,COD,,5800
+ORD1227,Nov,11,2024-11-02,Bangalore,Electronics,Smartphone,Website,8,2999,23992,10,21592.8,10,Pending,UPI,,24200
+ORD1228,Dec,12,2024-12-28,Ahmedabad,Clothing,Jeans,Mobile App,1,499,499,10,449.1,9,Delivered,UPI,,400
+ORD1229,Jan,1,2024-01-28,Chennai,Home & Kitchen,Mixer,Marketplace,3,2999,8997,0,8997,5,Delivered,Credit Card,,9200
+ORD1230,Feb,2,2024-02-08,Pune,Sports,Cycling Gloves,Mobile App,13,799,10387,0,10387,9,Returned,Debit Card,Quality Issue,9100
+ORD1231,Mar,3,2024-03-13,Kolkata,Electronics,Earbuds,Mobile App,1,24999,24999,10,22499.1,8,Delivered,Debit Card,,22900
+ORD1232,Apr,4,2024-04-23,Kolkata,Sports,Yoga Mat,Website,13,12999,168987,10,152088.3,4,Returned,UPI,Changed Mind,136300
+ORD1233,May,5,2024-05-03,Pune,Clothing,Jacket,Mobile App,2,499,998,0,998,5,Delivered,Debit Card,,900
+ORD1234,Jun,6,2024-06-20,Ahmedabad,Clothing,Jacket,Marketplace,9,7999,71991,15,61192.35,2,Delivered,Debit Card,,62200
+ORD1235,Jul,7,2024-07-06,Kolkata,Books,Textbook,Website,5,2999,14995,15,12745.75,2,Returned,Net Banking,Wrong Item,13000
+ORD1236,Aug,8,2024-08-10,Bangalore,Sports,Yoga Mat,Mobile App,5,1499,7495,15,6370.75,3,Delivered,COD,,5900
+ORD1237,Sep,9,2024-09-10,Pune,Sports,Cricket Bat,Mobile App,4,24999,99996,15,84996.6,10,Delivered,COD,,75000
+ORD1238,Oct,10,2024-10-11,Pune,Electronics,Smartwatch,Marketplace,7,1999,13993,15,11894.05,6,Delivered,Net Banking,,10600
+ORD1239,Nov,11,2024-11-11,Ahmedabad,Books,Self-Help,Mobile App,3,2999,8997,10,8097.3,5,Returned,COD,Late Delivery,8800
+ORD1240,Dec,12,2024-12-18,Kolkata,Sports,Badminton Racket,Mobile App,2,12999,25998,5,24698.1,10,Pending,Credit Card,,26000
+ORD1241,Jan,1,2024-01-08,Chennai,Electronics,Smartwatch,Mobile App,13,1499,19487,0,19487,7,Delivered,Credit Card,,20300
+ORD1242,Feb,2,2024-02-28,Kolkata,Home & Kitchen,Pressure Cooker,Mobile App,2,4999,9998,20,7998.4,8,Delivered,Net Banking,,8000
+ORD1243,Mar,3,2024-03-12,Mumbai,Sports,Cycling Gloves,Mobile App,12,7999,95988,20,76790.4,2,Delivered,Credit Card,,80400
+ORD1244,Apr,4,2024-04-04,Mumbai,Clothing,Kurta,Marketplace,11,24999,274989,15,233740.65,6,Pending,COD,,206100
+ORD1245,May,5,2024-05-01,Chennai,Home & Kitchen,Pressure Cooker,Mobile App,6,2999,17994,15,15294.9,10,Delivered,Credit Card,,14600
+ORD1246,Jun,6,2024-06-07,Hyderabad,Sports,Cricket Bat,Mobile App,15,499,7485,0,7485,3,Delivered,Debit Card,,7400
+ORD1247,Jul,7,2024-07-04,Pune,Books,Comic Book,Mobile App,2,4999,9998,15,8498.3,6,Delivered,UPI,,9300
+ORD1248,Aug,8,2024-08-14,Delhi,Electronics,Earbuds,Marketplace,13,799,10387,5,9867.65,9,Delivered,Credit Card,,9400
+ORD1249,Sep,9,2024-09-15,Kolkata,Sports,Yoga Mat,Marketplace,3,799,2397,15,2037.45,7,Delivered,Net Banking,,2300
+ORD1250,Oct,10,2024-10-28,Kolkata,Books,Comic Book,Website,12,999,11988,5,11388.6,5,Returned,UPI,Late Delivery,10000
+ORD1251,Nov,11,2024-11-21,Pune,Books,Self-Help,Mobile App,4,4999,19996,0,19996,5,Delivered,COD,,20200
+ORD1252,Dec,12,2024-12-27,Kolkata,Home & Kitchen,LED Bulb,Marketplace,7,12999,90993,0,90993,6,Delivered,COD,,94200
+ORD1253,Jan,1,2024-01-05,Delhi,Home & Kitchen,LED Bulb,Marketplace,3,1999,5997,0,5997,4,Delivered,Credit Card,,5800
+ORD1254,Feb,2,2024-02-21,Kolkata,Books,Comic Book,Marketplace,3,12999,38997,15,33147.45,7,Delivered,Net Banking,,35100
+ORD1255,Mar,3,2024-03-12,Bangalore,Clothing,Kurta,Mobile App,5,799,3995,5,3795.25,6,Cancelled,Net Banking,,3300
+ORD1256,Apr,4,2024-04-14,Bangalore,Electronics,Smartwatch,Website,14,2999,41986,20,33588.8,9,Delivered,COD,,35400
+ORD1257,May,5,2024-05-06,Bangalore,Sports,Football,Website,10,299,2990,5,2840.5,5,Delivered,Credit Card,,2900
+ORD1258,Jun,6,2024-06-12,Ahmedabad,Sports,Cycling Gloves,Marketplace,9,499,4491,20,3592.8,2,Delivered,Net Banking,,3900
+ORD1259,Jul,7,2024-07-12,Ahmedabad,Books,Fiction Novel,Marketplace,4,2999,11996,0,11996,4,Delivered,UPI,,11800
+ORD1260,Aug,8,2024-08-26,Delhi,Electronics,Smartwatch,Website,4,12999,51996,10,46796.4,10,Delivered,Credit Card,,48400
+ORD1261,Sep,9,2024-09-10,Mumbai,Clothing,Jeans,Marketplace,6,7999,47994,10,43194.6,10,Delivered,Debit Card,,49400
+ORD1262,Oct,10,2024-10-09,Hyderabad,Home & Kitchen,LED Bulb,Marketplace,15,24999,374985,0,374985,3,Pending,COD,,422100
+ORD1263,Nov,11,2024-11-21,Chennai,Clothing,Jeans,Website,12,1999,23988,5,22788.6,7,Delivered,Net Banking,,23700
+ORD1264,Dec,12,2024-12-11,Ahmedabad,Sports,Football,Website,11,499,5489,15,4665.65,9,Returned,Debit Card,Damaged,5300
+ORD1265,Jan,1,2024-01-27,Delhi,Books,Fiction Novel,Marketplace,8,24999,199992,10,179992.8,2,Returned,COD,Wrong Item,205300
+ORD1266,Feb,2,2024-02-26,Hyderabad,Clothing,Jacket,Mobile App,14,1499,20986,10,18887.4,9,Delivered,Net Banking,,20900
+ORD1267,Mar,3,2024-03-01,Mumbai,Home & Kitchen,Mixer,Website,11,4999,54989,0,54989,2,Pending,Credit Card,,54000
+ORD1268,Apr,4,2024-04-22,Bangalore,Sports,Yoga Mat,Marketplace,5,799,3995,10,3595.5,2,Delivered,Debit Card,,3100
+ORD1269,May,5,2024-05-05,Kolkata,Clothing,T-Shirt,Marketplace,5,999,4995,15,4245.75,2,Returned,UPI,Wrong Item,4200
+ORD1270,Jun,6,2024-06-13,Ahmedabad,Books,Self-Help,Website,1,1999,1999,0,1999,7,Delivered,COD,,1700
+ORD1271,Jul,7,2024-07-05,Delhi,Electronics,Smartphone,Mobile App,6,1499,8994,5,8544.3,7,Returned,Credit Card,,9800
+ORD1272,Aug,8,2024-08-15,Mumbai,Electronics,Tablet,Marketplace,11,799,8789,15,7470.65,6,Returned,Credit Card,Damaged,7700
+ORD1273,Sep,9,2024-09-05,Delhi,Clothing,T-Shirt,Website,13,499,6487,20,5189.6,7,Delivered,COD,,4900
+ORD1274,Oct,10,2024-10-22,Delhi,Clothing,Saree,Website,9,12999,116991,20,93592.8,10,Delivered,UPI,,103400
+ORD1275,Nov,11,2024-11-21,Chennai,Home & Kitchen,Pressure Cooker,Marketplace,7,1499,10493,0,10493,4,Delivered,UPI,,9700
+ORD1276,Dec,12,2024-12-18,Mumbai,Books,Fiction Novel,Mobile App,15,1999,29985,5,28485.75,7,Cancelled,Net Banking,,27800
+ORD1277,Jan,1,2024-01-13,Delhi,Clothing,Jacket,Website,10,499,4990,0,4990,5,Delivered,UPI,,5700
+ORD1278,Feb,2,2024-02-10,Kolkata,Books,Textbook,Mobile App,12,2999,35988,0,35988,9,Delivered,Credit Card,,33600
+ORD1279,Mar,3,2024-03-14,Chennai,Electronics,Tablet,Website,9,1999,17991,15,15292.35,10,Delivered,UPI,,14400
+ORD1280,Apr,4,2024-04-24,Chennai,Clothing,T-Shirt,Website,15,2999,44985,0,44985,8,Delivered,UPI,,42400
+ORD1281,May,5,2024-05-27,Mumbai,Clothing,T-Shirt,Marketplace,3,299,897,5,852.15,8,Pending,Net Banking,,900
+ORD1282,Jun,6,2024-06-03,Pune,Home & Kitchen,Pressure Cooker,Website,12,1499,17988,0,17988,1,Delivered,COD,,16800
+ORD1283,Jul,7,2024-07-06,Delhi,Home & Kitchen,LED Bulb,Mobile App,8,7999,63992,10,57592.8,1,Delivered,Net Banking,,51800
+ORD1284,Aug,8,2024-08-16,Delhi,Home & Kitchen,Mixer,Website,12,7999,95988,0,95988,1,Cancelled,UPI,,88600
+ORD1285,Sep,9,2024-09-24,Bangalore,Home & Kitchen,Iron,Website,15,299,4485,20,3588,7,Delivered,Credit Card,,3500
+ORD1286,Oct,10,2024-10-13,Delhi,Home & Kitchen,Water Purifier,Marketplace,6,499,2994,20,2395.2,1,Delivered,Net Banking,,2700
+ORD1287,Nov,11,2024-11-26,Hyderabad,Electronics,Smartwatch,Mobile App,6,499,2994,20,2395.2,8,Delivered,Credit Card,,2200
+ORD1288,Dec,12,2024-12-14,Chennai,Home & Kitchen,LED Bulb,Mobile App,6,12999,77994,15,66294.9,4,Returned,Net Banking,Wrong Item,59300
+ORD1289,Jan,1,2024-01-04,Pune,Electronics,Laptop,Marketplace,14,299,4186,10,3767.4,1,Returned,COD,,4000
+ORD1290,Feb,2,2024-02-17,Chennai,Clothing,Kurta,Mobile App,8,299,2392,5,2272.4,5,Delivered,Credit Card,,2500
+ORD1291,Mar,3,2024-03-19,Ahmedabad,Sports,Badminton Racket,Marketplace,2,12999,25998,0,25998,9,Delivered,COD,,22700
+ORD1292,Apr,4,2024-04-08,Bangalore,Electronics,Smartwatch,Website,5,1499,7495,10,6745.5,7,Returned,Debit Card,Changed Mind,6600
+ORD1293,May,5,2024-05-18,Bangalore,Electronics,Laptop,Marketplace,2,799,1598,0,1598,3,Delivered,Debit Card,,1600
+ORD1294,Jun,6,2024-06-23,Ahmedabad,Home & Kitchen,Pressure Cooker,Mobile App,8,1499,11992,0,11992,2,Delivered,Debit Card,,13200
+ORD1295,Jul,7,2024-07-09,Chennai,Books,Fiction Novel,Mobile App,3,499,1497,5,1422.15,6,Delivered,UPI,,1500
+ORD1296,Aug,8,2024-08-02,Kolkata,Clothing,T-Shirt,Mobile App,9,7999,71991,5,68391.45,2,Delivered,Credit Card,,60600
+ORD1297,Sep,9,2024-09-03,Chennai,Clothing,Jeans,Mobile App,6,24999,149994,0,149994,10,Delivered,UPI,,128500
+ORD1298,Oct,10,2024-10-19,Bangalore,Clothing,Jacket,Website,15,1999,29985,0,29985,1,Pending,UPI,,27000
+ORD1299,Nov,11,2024-11-15,Ahmedabad,Sports,Football,Website,7,24999,174993,15,148744.05,3,Delivered,Credit Card,,138700
+ORD1300,Dec,12,2024-12-05,Chennai,Clothing,T-Shirt,Marketplace,5,4999,24995,15,21245.75,9,Delivered,UPI,,19800
